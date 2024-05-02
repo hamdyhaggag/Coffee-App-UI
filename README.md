@@ -1,4 +1,4 @@
-# Coffee-Shop-UI-App
+# Coffee-App-UI
 
 A simple Coffee Shop App UI concept.
 
