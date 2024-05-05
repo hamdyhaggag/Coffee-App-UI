@@ -27,13 +27,13 @@ A simple Coffee Shop App UI concept.
 1. Clone the repository:
 
 ```
-git clone [https://github.com/yourusername/manassa-elearning.git](https://github.com/hamdyhaggag/Coffee-Shop-UI-App.git)
+git clone [https://github.com/hamdyhaggag/Coffee-App-UI.git)
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd manassa-elearning
+cd Coffee-App-UI
 ```
 
 3. Install dependencies:
